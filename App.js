@@ -12,7 +12,6 @@ const App = () => (
             <Route exact path='/exercise' component={Exercises} />
             <Route exact path='/exercise/new' component={ExercisesNew} />
             <Route exact path='/hooks' component={Hooks} />
-            <Route component={NotFound} />
         </Switch>
     </Router>
 
