@@ -4,7 +4,7 @@ import Exercises from '../pages/Exercises';
 import ExercisesNew from '../pages/ExercisesNew';
 import Hooks from './Hooks2'
 
-console.log("rama2")
+console.log("rama3")
 const App = () => ( 
     <Router>
         <Switch>
